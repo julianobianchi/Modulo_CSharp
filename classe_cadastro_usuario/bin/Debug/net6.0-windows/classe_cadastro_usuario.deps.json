@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "classe_cadastro_usuario/1.0.0": {
+        "runtime": {
+          "classe_cadastro_usuario.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classe_cadastro_usuario/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

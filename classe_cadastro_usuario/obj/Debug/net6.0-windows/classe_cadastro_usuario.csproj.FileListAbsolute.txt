@@ -1,0 +1,16 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\bin\Debug\net6.0-windows\classe_cadastro_usuario.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\bin\Debug\net6.0-windows\classe_cadastro_usuario.deps.json
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\bin\Debug\net6.0-windows\classe_cadastro_usuario.runtimeconfig.json
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\bin\Debug\net6.0-windows\classe_cadastro_usuario.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\bin\Debug\net6.0-windows\classe_cadastro_usuario.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.AssemblyInfoInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.AssemblyInfo.cs
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\refint\classe_cadastro_usuario.dll
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\classe_cadastro_usuario.genruntimeconfig.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\classe_cadastro_usuario\obj\Debug\net6.0-windows\ref\classe_cadastro_usuario.dll
