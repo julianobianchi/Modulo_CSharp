@@ -63,8 +63,8 @@ namespace classe_cadastro_usuario
                     novoAluno.dataNasc.ToString() + "\nIdade: " +
                     novoAluno.getIdade().ToString() +
                     "\nTurma: " + novoAluno.turma +
-                    "\nNota 1 " + novoAluno.nota1.ToString() +
-                    "\nNota 2 " + novoAluno.nota2.ToString() +
+                    "\nNota 1: " + novoAluno.nota1.ToString() +
+                    "\nNota 2: " + novoAluno.nota2.ToString() +
                     "\nMédia: " + novoAluno.retornaMedia().ToString() +
                     "\nO aluno está " + novoAluno.verificaAprovacao(),
 
@@ -119,6 +119,49 @@ namespace classe_cadastro_usuario
                 MessageBox.Show("Erro de Conversão!!!", "ERRO",
                     MessageBoxButtons.OK);
             }
+        }
+
+        private void btnCadastrarTipoProfessor_Click(object sender, EventArgs e)
+        {
+
+            try
+            {
+                TipoProfessor tipoProfessor = new TipoProfessor();
+
+                tipoProfessor.nome = txbNome.Text;
+                tipoProfessor.matricula = txbMatricula.Text;
+                tipoProfessor.endereco = txbEndereco.Text;
+                tipoProfessor.dataNasc = dtpDataNasc.Value;
+                //método de funcionalidade da classe usuario
+                //só posso chamar depois de atribuir o valor da data de nasc
+                tipoProfessor.calculaIdade();
+                tipoProfessor.cargaHoraria = int.Parse(txbCargaHoraria.Text);
+                tipoProfessor.setTipo();
+                tipoProfessor.tipomProfessor = txbTipoProfessor.Text;
+
+                MessageBox.Show("Professor Cadastrado com Sucesso!!!\nNome: " +
+                    tipoProfessor.nome +
+                    "\nMatricula: " + tipoProfessor.matricula + "\nEndereço: " +
+                    tipoProfessor.endereco + "\nData Nascimento: " +
+                    tipoProfessor.dataNasc.ToString() + "\nIdade: " +
+                    tipoProfessor.getIdade().ToString() +
+                    "\nCargaHoraria: " + tipoProfessor.cargaHoraria.ToString() +
+                    "\nTipo Professor: " + tipoProfessor.tipo +
+                    "\nCategoria Professor: " + tipoProfessor.tipomProfessor ,
+
+
+                    "Confirmação Cadastro",
+                    MessageBoxButtons.OK);
+
+
+
+            }
+            catch (FormatException)
+            {
+                MessageBox.Show("Erro de Conversão!!!", "ERRO",
+                    MessageBoxButtons.OK);
+            }
+
         }
     }
 }

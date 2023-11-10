@@ -51,9 +51,14 @@
             btnCadastrarProfessor = new Button();
             txbCargaHoraria = new TextBox();
             label9 = new Label();
+            groupBox4 = new GroupBox();
+            txbTipoProfessor = new ComboBox();
+            btnCadastrarTipoProfessor = new Button();
+            label8 = new Label();
             groupBox1.SuspendLayout();
             groupBox2.SuspendLayout();
             groupBox3.SuspendLayout();
+            groupBox4.SuspendLayout();
             SuspendLayout();
             // 
             // groupBox1
@@ -69,7 +74,7 @@
             groupBox1.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
             groupBox1.Location = new Point(12, 12);
             groupBox1.Name = "groupBox1";
-            groupBox1.Size = new Size(555, 192);
+            groupBox1.Size = new Size(782, 192);
             groupBox1.TabIndex = 0;
             groupBox1.TabStop = false;
             groupBox1.Text = "Usuário";
@@ -79,7 +84,7 @@
             txbEndereco.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txbEndereco.Location = new Point(161, 138);
             txbEndereco.Name = "txbEndereco";
-            txbEndereco.Size = new Size(388, 29);
+            txbEndereco.Size = new Size(570, 29);
             txbEndereco.TabIndex = 7;
             // 
             // txbMatricula
@@ -87,7 +92,7 @@
             txbMatricula.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txbMatricula.Location = new Point(161, 65);
             txbMatricula.Name = "txbMatricula";
-            txbMatricula.Size = new Size(157, 29);
+            txbMatricula.Size = new Size(195, 29);
             txbMatricula.TabIndex = 6;
             // 
             // txbNome
@@ -95,7 +100,7 @@
             txbNome.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             txbNome.Location = new Point(161, 28);
             txbNome.Name = "txbNome";
-            txbNome.Size = new Size(388, 29);
+            txbNome.Size = new Size(570, 29);
             txbNome.TabIndex = 5;
             // 
             // dtpDataNasc
@@ -103,7 +108,7 @@
             dtpDataNasc.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             dtpDataNasc.Location = new Point(161, 103);
             dtpDataNasc.Name = "dtpDataNasc";
-            dtpDataNasc.Size = new Size(300, 29);
+            dtpDataNasc.Size = new Size(369, 29);
             dtpDataNasc.TabIndex = 4;
             // 
             // label4
@@ -247,7 +252,7 @@
             groupBox3.Controls.Add(txbCargaHoraria);
             groupBox3.Controls.Add(label9);
             groupBox3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            groupBox3.Location = new Point(326, 260);
+            groupBox3.Location = new Point(278, 260);
             groupBox3.Name = "groupBox3";
             groupBox3.Size = new Size(241, 187);
             groupBox3.TabIndex = 11;
@@ -284,12 +289,57 @@
             label9.TabIndex = 5;
             label9.Text = "Carga Horária:";
             // 
+            // groupBox4
+            // 
+            groupBox4.Controls.Add(txbTipoProfessor);
+            groupBox4.Controls.Add(btnCadastrarTipoProfessor);
+            groupBox4.Controls.Add(label8);
+            groupBox4.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            groupBox4.Location = new Point(559, 260);
+            groupBox4.Name = "groupBox4";
+            groupBox4.Size = new Size(241, 187);
+            groupBox4.TabIndex = 12;
+            groupBox4.TabStop = false;
+            groupBox4.Text = "Tipo de Professor";
+            // 
+            // txbTipoProfessor
+            // 
+            txbTipoProfessor.FormattingEnabled = true;
+            txbTipoProfessor.Items.AddRange(new object[] { "Temporário", "Efetivo", "Estagiario" });
+            txbTipoProfessor.Location = new Point(6, 73);
+            txbTipoProfessor.Name = "txbTipoProfessor";
+            txbTipoProfessor.Size = new Size(229, 29);
+            txbTipoProfessor.TabIndex = 6;
+            // 
+            // btnCadastrarTipoProfessor
+            // 
+            btnCadastrarTipoProfessor.BackColor = SystemColors.Menu;
+            btnCadastrarTipoProfessor.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            btnCadastrarTipoProfessor.Location = new Point(76, 145);
+            btnCadastrarTipoProfessor.Name = "btnCadastrarTipoProfessor";
+            btnCadastrarTipoProfessor.Size = new Size(108, 36);
+            btnCadastrarTipoProfessor.TabIndex = 3;
+            btnCadastrarTipoProfessor.Text = "Cadastrar";
+            btnCadastrarTipoProfessor.UseVisualStyleBackColor = false;
+            btnCadastrarTipoProfessor.Click += btnCadastrarTipoProfessor_Click;
+            // 
+            // label8
+            // 
+            label8.AutoSize = true;
+            label8.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point);
+            label8.Location = new Point(6, 44);
+            label8.Name = "label8";
+            label8.Size = new Size(147, 21);
+            label8.TabIndex = 5;
+            label8.Text = "Tipo de Professor:";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.Window;
-            ClientSize = new Size(592, 458);
+            ClientSize = new Size(812, 457);
+            Controls.Add(groupBox4);
             Controls.Add(groupBox3);
             Controls.Add(groupBox2);
             Controls.Add(btnCadastrar);
@@ -305,6 +355,8 @@
             groupBox2.PerformLayout();
             groupBox3.ResumeLayout(false);
             groupBox3.PerformLayout();
+            groupBox4.ResumeLayout(false);
+            groupBox4.PerformLayout();
             ResumeLayout(false);
         }
 
@@ -332,5 +384,9 @@
         private Button btnCadastrarProfessor;
         private TextBox txbCargaHoraria;
         private Label label9;
+        private GroupBox groupBox4;
+        private ComboBox txbTipoProfessor;
+        private Button btnCadastrarTipoProfessor;
+        private Label label8;
     }
 }
