@@ -1,0 +1,10 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\bin\Debug\Jogo_Loteria.exe.config
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\bin\Debug\Jogo_Loteria.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\bin\Debug\Jogo_Loteria.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.csproj.AssemblyReference.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.Properties.Resources.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Jogo_Loteria\obj\Debug\Jogo_Loteria.pdb

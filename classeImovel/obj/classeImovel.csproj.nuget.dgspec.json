@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Juliano Bianchi\\OneDrive - SENAC-SC\\ENTRA21_2023\\C#\\Classes\\classeImovel\\classeImovel.csproj": {}
+    "C:\\Users\\juliano.bianchi\\Desktop\\Entra21_2023\\OneDrive - SENAC-SC\\Documentos\\C#\\classeImovel\\classeImovel.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Juliano Bianchi\\OneDrive - SENAC-SC\\ENTRA21_2023\\C#\\Classes\\classeImovel\\classeImovel.csproj": {
+    "C:\\Users\\juliano.bianchi\\Desktop\\Entra21_2023\\OneDrive - SENAC-SC\\Documentos\\C#\\classeImovel\\classeImovel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Juliano Bianchi\\OneDrive - SENAC-SC\\ENTRA21_2023\\C#\\Classes\\classeImovel\\classeImovel.csproj",
+        "projectUniqueName": "C:\\Users\\juliano.bianchi\\Desktop\\Entra21_2023\\OneDrive - SENAC-SC\\Documentos\\C#\\classeImovel\\classeImovel.csproj",
         "projectName": "classeImovel",
-        "projectPath": "C:\\Users\\Juliano Bianchi\\OneDrive - SENAC-SC\\ENTRA21_2023\\C#\\Classes\\classeImovel\\classeImovel.csproj",
-        "packagesPath": "C:\\Users\\Juliano Bianchi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Juliano Bianchi\\OneDrive - SENAC-SC\\ENTRA21_2023\\C#\\Classes\\classeImovel\\obj\\",
+        "projectPath": "C:\\Users\\juliano.bianchi\\Desktop\\Entra21_2023\\OneDrive - SENAC-SC\\Documentos\\C#\\classeImovel\\classeImovel.csproj",
+        "packagesPath": "C:\\Users\\juliano.bianchi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\juliano.bianchi\\Desktop\\Entra21_2023\\OneDrive - SENAC-SC\\Documentos\\C#\\classeImovel\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Juliano Bianchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\juliano.bianchi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
