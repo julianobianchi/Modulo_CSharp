@@ -32,6 +32,8 @@
             this.button4 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.lblResultadoAcertos = new System.Windows.Forms.Label();
+            this.label65 = new System.Windows.Forms.Label();
             this.numEscolhidos = new System.Windows.Forms.Label();
             this.lbtValorAposta = new System.Windows.Forms.Label();
             this.label64 = new System.Windows.Forms.Label();
@@ -103,8 +105,6 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.label65 = new System.Windows.Forms.Label();
-            this.lblResultadoAcertos = new System.Windows.Forms.Label();
             this.groupBox3.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.tbxnumAposta)).BeginInit();
             this.groupBox2.SuspendLayout();
@@ -155,6 +155,23 @@
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "Apostas";
             // 
+            // lblResultadoAcertos
+            // 
+            this.lblResultadoAcertos.AutoSize = true;
+            this.lblResultadoAcertos.Location = new System.Drawing.Point(141, 133);
+            this.lblResultadoAcertos.Name = "lblResultadoAcertos";
+            this.lblResultadoAcertos.Size = new System.Drawing.Size(0, 20);
+            this.lblResultadoAcertos.TabIndex = 29;
+            // 
+            // label65
+            // 
+            this.label65.AutoSize = true;
+            this.label65.Location = new System.Drawing.Point(6, 133);
+            this.label65.Name = "label65";
+            this.label65.Size = new System.Drawing.Size(68, 20);
+            this.label65.TabIndex = 28;
+            this.label65.Text = "Acertos:";
+            // 
             // numEscolhidos
             // 
             this.numEscolhidos.AccessibleRole = System.Windows.Forms.AccessibleRole.TitleBar;
@@ -201,6 +218,11 @@
             // tbxnumAposta
             // 
             this.tbxnumAposta.Location = new System.Drawing.Point(285, 29);
+            this.tbxnumAposta.Maximum = new decimal(new int[] {
+            15,
+            0,
+            0,
+            0});
             this.tbxnumAposta.Name = "tbxnumAposta";
             this.tbxnumAposta.Size = new System.Drawing.Size(37, 26);
             this.tbxnumAposta.TabIndex = 1;
@@ -228,10 +250,11 @@
             // lbtSorteio
             // 
             this.lbtSorteio.BackColor = System.Drawing.Color.Transparent;
-            this.lbtSorteio.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbtSorteio.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbtSorteio.ForeColor = System.Drawing.Color.Red;
             this.lbtSorteio.Location = new System.Drawing.Point(6, 33);
             this.lbtSorteio.Name = "lbtSorteio";
-            this.lbtSorteio.Size = new System.Drawing.Size(262, 302);
+            this.lbtSorteio.Size = new System.Drawing.Size(262, 85);
             this.lbtSorteio.TabIndex = 24;
             // 
             // groupBox1
@@ -1032,23 +1055,6 @@
             this.label8.Size = new System.Drawing.Size(400, 31);
             this.label8.TabIndex = 27;
             this.label8.Text = "MEGA JOGOS - MEGA SENA";
-            // 
-            // label65
-            // 
-            this.label65.AutoSize = true;
-            this.label65.Location = new System.Drawing.Point(6, 133);
-            this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(68, 20);
-            this.label65.TabIndex = 28;
-            this.label65.Text = "Acertos:";
-            // 
-            // lblResultadoAcertos
-            // 
-            this.lblResultadoAcertos.AutoSize = true;
-            this.lblResultadoAcertos.Location = new System.Drawing.Point(141, 133);
-            this.lblResultadoAcertos.Name = "lblResultadoAcertos";
-            this.lblResultadoAcertos.Size = new System.Drawing.Size(0, 20);
-            this.lblResultadoAcertos.TabIndex = 29;
             // 
             // Form1
             // 
