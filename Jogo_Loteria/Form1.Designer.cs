@@ -42,6 +42,7 @@
             this.tbxnumAposta = new System.Windows.Forms.NumericUpDown();
             this.label62 = new System.Windows.Forms.Label();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.txtaposta = new System.Windows.Forms.Label();
             this.lbtSorteio = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.label52 = new System.Windows.Forms.Label();
@@ -239,6 +240,7 @@
             // groupBox2
             // 
             this.groupBox2.BackColor = System.Drawing.Color.Transparent;
+            this.groupBox2.Controls.Add(this.txtaposta);
             this.groupBox2.Controls.Add(this.lbtSorteio);
             this.groupBox2.Location = new System.Drawing.Point(514, 81);
             this.groupBox2.Name = "groupBox2";
@@ -246,6 +248,17 @@
             this.groupBox2.TabIndex = 30;
             this.groupBox2.TabStop = false;
             this.groupBox2.Text = "Resultado";
+            // 
+            // txtaposta
+            // 
+            this.txtaposta.BackColor = System.Drawing.Color.Transparent;
+            this.txtaposta.Font = new System.Drawing.Font("Microsoft Sans Serif", 13F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtaposta.ForeColor = System.Drawing.Color.Red;
+            this.txtaposta.Location = new System.Drawing.Point(6, 198);
+            this.txtaposta.Name = "txtaposta";
+            this.txtaposta.Size = new System.Drawing.Size(262, 85);
+            this.txtaposta.TabIndex = 25;
+            this.txtaposta.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // lbtSorteio
             // 
@@ -256,6 +269,7 @@
             this.lbtSorteio.Name = "lbtSorteio";
             this.lbtSorteio.Size = new System.Drawing.Size(262, 85);
             this.lbtSorteio.TabIndex = 24;
+            this.lbtSorteio.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // groupBox1
             // 
@@ -1161,6 +1175,7 @@
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label lblResultadoAcertos;
         private System.Windows.Forms.Label label65;
+        private System.Windows.Forms.Label txtaposta;
     }
 }
 

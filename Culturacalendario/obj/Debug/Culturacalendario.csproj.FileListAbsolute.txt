@@ -1,0 +1,12 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.csproj.AssemblyReference.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.Properties.Resources.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\bin\Debug\Culturacalendario.exe.config
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\bin\Debug\Culturacalendario.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\bin\Debug\Culturacalendario.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.Calendario.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Culturacalendario\obj\Debug\Culturacalendario.Calculadora.resources

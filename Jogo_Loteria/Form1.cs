@@ -19,22 +19,24 @@ namespace Jogo_Loteria
         int contClick = 0;
         string[] selectNum = new string[15];
         int[] vetor = new int[30];
-
+        int[] aposta = new int[20];
         int[] numerosEscolhidos = new int[20];
-        int contEscolhido = 0;
+       // int contEscolhido = 0;
+        int numSorte = 0;
 
         private void clickNum(object sender, EventArgs e)
         {
             try
             {
-                int numSorte = Convert.ToInt16(tbxnumAposta.Text);
-
+                numSorte = Convert.ToInt16(tbxnumAposta.Text);
+                int i = 0;
                 Label clickNum = sender as Label;
                 
                 if (clickNum != null)
                 {
                     if (contClick <= numSorte)
                     {
+                        i++;
                         contClick++;
                         if (contClick <= numSorte)
                         {
@@ -42,6 +44,8 @@ namespace Jogo_Loteria
                             selectNum[contClick - 1] = clickNum.Text;
                             numerosEscolhidos[contClick] = Convert.ToInt16(clickNum.Text);
                             numEscolhidos.Text += selectNum[contClick - 1] + "  ";
+                            aposta[i]= Convert.ToInt16(clickNum.Text);
+                            txtaposta.Text += aposta[i].ToString();
                         }
                     }
                     
@@ -96,6 +100,7 @@ namespace Jogo_Loteria
                      vetor[i] = numSorteado;
                      lbtSorteio.Text += vetor[i].ToString();
                      lbtSorteio.Text += "  ";
+                 
                 }
 
                 comparaJogoResultado();
@@ -114,15 +119,15 @@ namespace Jogo_Loteria
         private void comparaJogoResultado()
         {
             int contagenDeAcertos = 0;
-            string aposta = numEscolhidos.Text;
-            for (int i = 0; i < 6; i++)
+                 
+            for (int i = 0; i < 6;i++)
             {
-                int iten1 = vetor[i];
-                foreach (var item2 in aposta)
+               for (int j = 0;j < numerosEscolhidos.Length; j++)
                 {
-                    if (iten1 == item2)
+                    if (vetor[i] == numerosEscolhidos[j])
                     {
                         contagenDeAcertos++;
+                        txtaposta.Text += aposta[j].ToString();
                     }
                 }
             }

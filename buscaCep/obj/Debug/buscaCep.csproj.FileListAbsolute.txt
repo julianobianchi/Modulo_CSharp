@@ -1,0 +1,10 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\bin\Debug\buscaCep.exe.config
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\bin\Debug\buscaCep.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\bin\Debug\buscaCep.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.csproj.AssemblyReference.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.Properties.Resources.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\buscaCep\obj\Debug\buscaCep.pdb

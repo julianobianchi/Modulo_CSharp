@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Juliano Bianchi\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Juliano Bianchi\\.nuget\\packages",
+      "C:\\Users\\juliano.bianchi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\juliano.bianchi\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
