@@ -1,0 +1,10 @@
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\bin\Debug\Cronometro.exe.config
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\bin\Debug\Cronometro.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\bin\Debug\Cronometro.pdb
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.Form1.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.Properties.Resources.resources
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.csproj.GenerateResource.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.exe
+C:\Users\juliano.bianchi\Desktop\Entra21_2023\OneDrive - SENAC-SC\Documentos\C#\Cronometro\obj\Debug\Cronometro.pdb
